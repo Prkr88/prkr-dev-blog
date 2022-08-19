@@ -51,6 +51,7 @@
     "gatsby": "^4.17.1",
     "gatsby-plugin-styled-components": "^5.17.0",
     "gatsby-theme-amaranth": "*",
+    "gatsby-theme-material": "^3.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-query": "^3.39.1",
