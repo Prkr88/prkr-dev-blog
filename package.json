@@ -49,7 +49,7 @@
     "@stylelint/postcss-css-in-js": "^0.38.0",
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.17.1",
-    "gatsby-plugin-styled-components": "^5.17.0",
+    "gatsby-plugin-styled-components": "^5.24.0",
     "gatsby-theme-amaranth": "*",
     "gatsby-theme-material": "^3.3.0",
     "react": "^17.0.2",
